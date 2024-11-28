@@ -1,0 +1,5 @@
+print('olá mundo')
+print('tudo bem')
+print('o dia esta lindo')
+print('eu amo azul')
+print('estou com fome')
